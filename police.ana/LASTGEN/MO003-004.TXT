@@ -1,0 +1,2 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Facture	facture_flux_euro	NNR	ffacture_flux_euro	ATTENTION : la rubrique ffacture_flux_euro a pour nouveau nom facture_flux_euro

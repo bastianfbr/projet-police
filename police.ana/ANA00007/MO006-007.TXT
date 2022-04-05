@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Facture		TAR	538	nouvelle taille enregistrement : 538
+Facture	facture_date	CNW	Chaîne$Date (aaaammjj)	la rubrique facture_date a pour nouveau type Chaîne
+Facture	facture_don_date_naissance	CNW	Chaîne$Date (aaaammjj)	la rubrique facture_don_date_naissance a pour nouveau type Chaîne
